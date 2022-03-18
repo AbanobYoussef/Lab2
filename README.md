@@ -1,2 +1,2 @@
 # Lab2
-[](unnamed.png)
+![](unnamed.png)
